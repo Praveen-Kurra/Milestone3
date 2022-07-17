@@ -1,0 +1,7 @@
+[INFO ] 2022-07-05 22:44:27.487 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-05 22:44:34.340 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-05 22:44:34.576 [main] BaseClass - checkTvResults is being executed
+[INFO ] 2022-07-05 22:44:39.846 [main] BaseClass - Sucessfully Passed
+[INFO ] 2022-07-05 22:44:39.847 [main] BaseClass - checkTvResults is completed
+[INFO ] 2022-07-05 22:44:42.026 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-05 22:44:42.658 [main] BaseClass - Finished Extent Report

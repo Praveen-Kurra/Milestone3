@@ -1,0 +1,14 @@
+[INFO ] 2022-07-14 22:59:27.375 [main] BaseClass - Initializing all the methods
+[INFO ] 2022-07-14 22:59:27.378 [main] BaseClass - Setting up drivers
+[INFO ] 2022-07-14 22:59:29.512 [main] BaseClass - Navigating to that Website
+[INFO ] 2022-07-14 22:59:39.113 [main] BaseClass - Clicking the dropDown Menu
+[INFO ] 2022-07-14 22:59:39.343 [main] BaseClass - Clicking on eletrich ToothBrush
+[INFO ] 2022-07-14 22:59:40.019 [main] BaseClass - displaying relevent Products
+[INFO ] 2022-07-14 22:59:41.867 [main] BaseClass - Closing the browser
+[INFO ] 2022-07-14 22:59:45.395 [main] BaseClass - Initializing all the methods
+[INFO ] 2022-07-14 22:59:45.396 [main] BaseClass - Setting up drivers
+[INFO ] 2022-07-14 22:59:46.623 [main] BaseClass - Navigating to that Website
+[INFO ] 2022-07-14 22:59:55.462 [main] BaseClass - Click on the shop 
+[INFO ] 2022-07-14 22:59:55.661 [main] BaseClass - click on eletric tooth brush from the shop memu
+[INFO ] 2022-07-14 23:00:00.297 [main] BaseClass - Displaying relevent Products
+[INFO ] 2022-07-14 23:00:00.297 [main] BaseClass - Closing the browser

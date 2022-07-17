@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Suite">
+<parameter name="UserName" value="standard_user" />
+<parameter name="Password" value="secret_sauce" />
+
+  <test thread-count="5" name="MyTestNgXml">
+    <classes>
+    <parameter name="UserName" value="UserName"/>
+    <parameter name="Password" value="Password"/>   
+     <class name="com.mindtree.Test.DataProviderPractice"/>
+         <methods>
+            <include name="DataProviderPractice" />
+    </methods>
+      
+    </classes>
+  </test> 
+</suite> 

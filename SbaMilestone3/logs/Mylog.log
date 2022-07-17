@@ -1,0 +1,49 @@
+[INFO ] 2022-07-04 18:15:19.246 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-04 18:15:30.239 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-04 18:15:30.509 [main] BaseClass - checkTvResults is being executed
+[WARN ] 2022-07-04 18:15:40.670 [main] BaseClass - This is Failed
+[INFO ] 2022-07-04 18:15:41.805 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-04 18:17:58.790 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-04 18:18:07.887 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-04 18:18:08.112 [main] BaseClass - checkTvResults is being executed
+[WARN ] 2022-07-04 18:18:14.895 [main] BaseClass - This is Failed
+[INFO ] 2022-07-04 18:18:15.877 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-04 18:19:26.561 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-04 18:19:36.037 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-04 18:19:36.298 [main] BaseClass - checkTvResults is being executed
+[WARN ] 2022-07-04 18:19:40.574 [main] BaseClass - This is Failed
+[INFO ] 2022-07-04 18:19:41.471 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-04 18:23:55.760 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-04 18:24:02.990 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-04 18:24:03.295 [main] BaseClass - checkTvResults is being executed
+[INFO ] 2022-07-04 18:24:09.860 [main] BaseClass - Sucessfully Passed
+[INFO ] 2022-07-04 18:24:09.861 [main] BaseClass - checkTvResults is completed
+[INFO ] 2022-07-04 18:24:12.967 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-04 18:24:13.786 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-05 21:31:51.315 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-05 21:32:05.554 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-05 21:32:05.815 [main] BaseClass - clicking is being executed
+[INFO ] 2022-07-05 21:32:08.864 [main] BaseClass - Sucessfully Passed
+[INFO ] 2022-07-05 21:32:11.317 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-05 21:32:11.976 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-05 21:32:27.976 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-05 21:32:38.153 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-05 21:32:38.414 [main] BaseClass - testCustomerCarenumber is being executed
+[INFO ] 2022-07-05 21:32:48.320 [main] BaseClass - Sucessfully Passed
+[INFO ] 2022-07-05 21:32:48.321 [main] BaseClass - testCustomerCarenumber is completed
+[INFO ] 2022-07-05 21:32:50.563 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-05 21:32:51.249 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-05 21:33:05.167 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-05 21:33:14.205 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-05 21:33:14.458 [main] BaseClass - checkTvResults is being executed
+[INFO ] 2022-07-05 21:33:21.188 [main] BaseClass - Sucessfully Passed
+[INFO ] 2022-07-05 21:33:21.189 [main] BaseClass - checkTvResults is completed
+[INFO ] 2022-07-05 21:33:23.320 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-05 21:33:23.991 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-09 11:33:52.712 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-09 11:34:04.575 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-09 11:34:04.793 [main] BaseClass - checkTvResults is being executed
+[INFO ] 2022-07-09 11:34:09.609 [main] BaseClass - Sucessfully Passed
+[INFO ] 2022-07-09 11:34:09.609 [main] BaseClass - checkTvResults is completed
+[INFO ] 2022-07-09 11:34:11.733 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-09 11:34:12.327 [main] BaseClass - Finished Extent Report

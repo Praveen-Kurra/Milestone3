@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 50.066 s <<< FAILURE! - in TestSuite
+setUp(com.runner.BbcEditorPickTest)  Time elapsed: 8.332 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.utilities.ConfigData.getData(String)" because "this.config" is null
+
+setUp(com.runner.BbcPrivacyTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.utilities.ConfigData.getData(String)" because "this.config" is null
+

@@ -1,0 +1,113 @@
+[INFO ] 2022-07-11 12:37:23.879 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-11 12:37:31.270 [main] BaseClass - Setting Up Browser
+[WARN ] 2022-07-11 12:37:35.156 [main] BaseClass - This is Failed
+[INFO ] 2022-07-11 12:37:35.820 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-11 12:50:40.387 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-11 12:50:46.972 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-11 12:50:47.398 [main] BaseClass - cricketTest is being executed
+[WARN ] 2022-07-11 12:50:51.929 [main] BaseClass - This is Failed
+[INFO ] 2022-07-11 12:50:52.720 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-11 12:53:09.568 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-11 12:53:48.368 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-11 12:53:48.912 [main] BaseClass - cricketTest is being executed
+[WARN ] 2022-07-11 12:53:54.617 [main] BaseClass - This is Failed
+[INFO ] 2022-07-11 12:53:55.297 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-11 12:57:00.138 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-11 12:57:59.138 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-11 12:57:59.593 [main] BaseClass - cricketTest is being executed
+[WARN ] 2022-07-11 12:58:06.678 [main] BaseClass - This is Failed
+[INFO ] 2022-07-11 12:58:07.420 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-11 13:14:18.226 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-11 13:15:18.108 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-11 13:15:18.743 [main] BaseClass - editorPickTest is being executed
+[INFO ] 2022-07-11 13:15:32.085 [main] BaseClass - com.runner.BbcEditorPickTest::editorPickTest    is sucessfully Executed
+[INFO ] 2022-07-11 13:15:32.085 [main] BaseClass - com.runner.BbcEditorPickTest::editorPickTest  is Finished
+[INFO ] 2022-07-11 13:15:37.768 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-11 13:15:38.816 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:16:31.923 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:16:43.355 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:16:43.691 [main] BaseClass - cricketTest is being executed
+[WARN ] 2022-07-14 10:16:48.234 [main] BaseClass - This is Failed
+[INFO ] 2022-07-14 10:16:48.982 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:17:43.889 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:17:51.789 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:17:52.079 [main] BaseClass - cricketTest is being executed
+[WARN ] 2022-07-14 10:17:55.808 [main] BaseClass - This is Failed
+[INFO ] 2022-07-14 10:17:56.595 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:19:11.613 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:19:19.995 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:19:20.356 [main] BaseClass - cricketTest is being executed
+[WARN ] 2022-07-14 10:19:27.319 [main] BaseClass - This is Failed
+[INFO ] 2022-07-14 10:19:28.035 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:20:41.207 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:20:49.683 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:20:49.982 [main] BaseClass - cricketTest is being executed
+[INFO ] 2022-07-14 10:20:56.517 [main] BaseClass - com.runner.BbcCricketTest::cricketTest    is sucessfully Executed
+[INFO ] 2022-07-14 10:20:56.518 [main] BaseClass - com.runner.BbcCricketTest::cricketTest  is Finished
+[INFO ] 2022-07-14 10:20:57.675 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-14 10:20:58.514 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:25:03.029 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:25:08.837 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:25:12.017 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:25:12.511 [main] BaseClass - cricketTest is being executed
+[INFO ] 2022-07-14 10:25:18.620 [main] BaseClass - com.runner.BbcCricketTest::cricketTest    is sucessfully Executed
+[INFO ] 2022-07-14 10:25:18.621 [main] BaseClass - com.runner.BbcCricketTest::cricketTest  is Finished
+[INFO ] 2022-07-14 10:25:20.288 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-14 10:25:21.251 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:25:48.396 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:25:48.844 [main] BaseClass - cricketTest is being executed
+[WARN ] 2022-07-14 10:26:14.559 [main] BaseClass - This is Failed
+[INFO ] 2022-07-14 10:26:15.329 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:27:04.735 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:27:43.882 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:27:44.367 [main] BaseClass - editorPickTest is being executed
+[INFO ] 2022-07-14 10:28:00.171 [main] BaseClass - com.runner.BbcEditorPickTest::editorPickTest    is sucessfully Executed
+[INFO ] 2022-07-14 10:28:00.171 [main] BaseClass - com.runner.BbcEditorPickTest::editorPickTest  is Finished
+[INFO ] 2022-07-14 10:28:02.746 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-14 10:28:03.576 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:29:14.203 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:29:54.334 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:29:54.783 [main] BaseClass - editorPickTest is being executed
+[INFO ] 2022-07-14 10:30:08.685 [main] BaseClass - com.runner.BbcEditorPickTest::editorPickTest    is sucessfully Executed
+[INFO ] 2022-07-14 10:30:08.686 [main] BaseClass - com.runner.BbcEditorPickTest::editorPickTest  is Finished
+[INFO ] 2022-07-14 10:30:12.399 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-14 10:30:13.246 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:30:43.659 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:30:52.156 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:30:52.464 [main] BaseClass - privacyTest is being executed
+[WARN ] 2022-07-14 10:30:56.154 [main] BaseClass - This is Failed
+[INFO ] 2022-07-14 10:30:56.932 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:34:31.039 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:35:11.315 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:35:11.707 [main] BaseClass - privacyTest is being executed
+[INFO ] 2022-07-14 10:35:16.577 [main] BaseClass - Checking results
+[INFO ] 2022-07-14 10:35:16.580 [main] BaseClass - com.runner.BbcPrivacyTest::privacyTest    is sucessfully Executed
+[INFO ] 2022-07-14 10:35:16.580 [main] BaseClass - com.runner.BbcPrivacyTest::privacyTest  is Finished
+[INFO ] 2022-07-14 10:35:17.288 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-14 10:35:18.028 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:39:29.593 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:39:37.143 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:39:37.408 [main] BaseClass - privacyTest is being executed
+[INFO ] 2022-07-14 10:39:42.086 [main] BaseClass - Checking results
+[INFO ] 2022-07-14 10:39:42.089 [main] BaseClass - com.runner.BbcPrivacyTest::privacyTest    is sucessfully Executed
+[INFO ] 2022-07-14 10:39:42.089 [main] BaseClass - com.runner.BbcPrivacyTest::privacyTest  is Finished
+[INFO ] 2022-07-14 10:39:42.684 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-14 10:39:43.284 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-14 10:44:57.019 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-14 10:45:36.469 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-14 10:45:36.803 [main] BaseClass - cricketTest is being executed
+[INFO ] 2022-07-14 10:45:43.751 [main] BaseClass - com.runner.BbcCricketTest::cricketTest    is sucessfully Executed
+[INFO ] 2022-07-14 10:45:43.751 [main] BaseClass - com.runner.BbcCricketTest::cricketTest  is Finished
+[INFO ] 2022-07-14 10:45:44.798 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-14 10:45:45.488 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-17 17:56:54.030 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-17 17:57:05.002 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-17 17:57:05.686 [main] BaseClass - cricketTest is being executed
+[INFO ] 2022-07-17 17:57:09.260 [main] BaseClass - Finished Extent Report
+[INFO ] 2022-07-17 17:58:33.664 [main] BaseClass - Intilizing all the Methods
+[INFO ] 2022-07-17 17:58:42.528 [main] BaseClass - Setting Up Browser
+[INFO ] 2022-07-17 17:58:43.122 [main] BaseClass - cricketTest is being executed
+[INFO ] 2022-07-17 17:58:50.488 [main] BaseClass - com.runner.BbcCricketTest::cricketTest    is sucessfully Executed
+[INFO ] 2022-07-17 17:58:50.489 [main] BaseClass - com.runner.BbcCricketTest::cricketTest  is Finished
+[INFO ] 2022-07-17 17:58:51.816 [main] BaseClass - Passed the Test Case
+[INFO ] 2022-07-17 17:58:53.391 [main] BaseClass - Finished Extent Report

@@ -1,0 +1,12 @@
+[INFO ] 2022-06-27 00:14:41.715 [main] GenerateExtentReport - Initialising ExtentReport
+[INFO ] 2022-06-27 00:14:45.092 [main] GenerateExtentReport - Launching Browser
+[INFO ] 2022-06-27 00:14:51.094 [main] GenerateExtentReport - Failing TestCase
+[INFO ] 2022-06-27 00:14:52.945 [main] GenerateExtentReport - Launching Browser
+[INFO ] 2022-06-27 00:15:00.651 [main] GenerateExtentReport - Passing Test Case
+[INFO ] 2022-06-27 00:15:02.462 [main] GenerateExtentReport - Launching Browser
+[INFO ] 2022-06-27 00:15:09.131 [main] GenerateExtentReport - Passing Test Case
+[INFO ] 2022-06-27 00:15:10.951 [main] GenerateExtentReport - Launching Browser
+[INFO ] 2022-06-27 00:15:16.537 [main] GenerateExtentReport - Failing TestCase
+[INFO ] 2022-06-27 00:15:18.349 [main] GenerateExtentReport - Launching Browser
+[INFO ] 2022-06-27 00:15:25.229 [main] GenerateExtentReport - Passing Test Case
+[INFO ] 2022-06-27 00:15:25.487 [main] GenerateExtentReport - Closing All Functions
