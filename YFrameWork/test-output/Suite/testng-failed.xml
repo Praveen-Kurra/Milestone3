@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.TestRunner.GoToCartTest">
+        <methods>
+          <include name="Clear"/>
+          <include name="tearDownMethod"/>
+          <include name="setUp"/>
+          <include name="InitializeMethods"/>
+          <include name="MyCart"/>
+          <include name="QuitingBrowser"/>
+        </methods>
+      </class> <!-- com.TestRunner.GoToCartTest -->
+      <class name="com.TestRunner.Login">
+        <methods>
+          <include name="Clear"/>
+          <include name="tearDownMethod"/>
+          <include name="setUp"/>
+          <include name="InitializeMethods"/>
+          <include name="QuitingBrowser"/>
+          <include name="loading"/>
+        </methods>
+      </class> <!-- com.TestRunner.Login -->
+      <class name="com.TestRunner.ProductsTest">
+        <methods>
+          <include name="Clear"/>
+          <include name="tearDownMethod"/>
+          <include name="setUp"/>
+          <include name="InitializeMethods"/>
+          <include name="QuitingBrowser"/>
+          <include name="Myproduct"/>
+        </methods>
+      </class> <!-- com.TestRunner.ProductsTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
